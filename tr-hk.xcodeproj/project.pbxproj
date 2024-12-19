@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
@@ -30,21 +30,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F8511C382D1465AB00291E92 /* tr-hk */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "tr-hk";
-			sourceTree = "<group>";
-		};
-		F8511C492D1465AD00291E92 /* tr-hkTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "tr-hkTests";
-			sourceTree = "<group>";
-		};
-		F8511C532D1465AD00291E92 /* tr-hkUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "tr-hkUITests";
-			sourceTree = "<group>";
-		};
+		F8511C382D1465AB00291E92 /* tr-hk */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "tr-hk"; sourceTree = "<group>"; };
+		F8511C492D1465AD00291E92 /* tr-hkTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "tr-hkTests"; sourceTree = "<group>"; };
+		F8511C532D1465AD00291E92 /* tr-hkUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "tr-hkUITests"; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +175,7 @@
 				};
 			};
 			buildConfigurationList = F8511C312D1465AB00291E92 /* Build configuration list for PBXProject "tr-hk" */;
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -195,7 +184,6 @@
 			);
 			mainGroup = F8511C2D2D1465AB00291E92;
 			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = F8511C372D1465AB00291E92 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
